@@ -1,4 +1,4 @@
-package com.kupferwerk.carservice.model
+package com.asti.carservice.model
 
 import javax.persistence.Entity
 import javax.persistence.GeneratedValue

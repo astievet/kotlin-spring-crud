@@ -1,10 +1,8 @@
-package com.kupferwerk.carservice.controller
+package com.asti.carservice.controller
 
-import com.kupferwerk.carservice.model.Car
-import com.kupferwerk.carservice.repository.CarRepository
-import com.kupferwerk.carservice.service.CarService
+import com.asti.carservice.model.Car
+import com.asti.carservice.service.CarService
 import org.springframework.web.bind.annotation.*
-import javax.management.loading.ClassLoaderRepository
 
 /**
  * @author arnaud on 09.08.17.

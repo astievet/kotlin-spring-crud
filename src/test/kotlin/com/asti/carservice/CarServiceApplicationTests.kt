@@ -1,4 +1,4 @@
-package com.kupferwerk.carservice
+package com.asti.carservice
 
 import org.junit.Test
 import org.junit.runner.RunWith
