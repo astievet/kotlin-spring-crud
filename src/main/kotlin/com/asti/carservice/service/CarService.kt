@@ -1,7 +1,7 @@
-package com.kupferwerk.carservice.service
+package com.asti.carservice.service
 
-import com.kupferwerk.carservice.model.Car
-import com.kupferwerk.carservice.repository.CarRepository
+import com.asti.carservice.model.Car
+import com.asti.carservice.repository.CarRepository
 import org.springframework.stereotype.Service
 
 /**

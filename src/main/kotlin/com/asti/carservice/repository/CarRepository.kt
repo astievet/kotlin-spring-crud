@@ -1,6 +1,6 @@
-package com.kupferwerk.carservice.repository
+package com.asti.carservice.repository
 
-import com.kupferwerk.carservice.model.Car
+import com.asti.carservice.model.Car
 import org.springframework.data.repository.CrudRepository
 import org.springframework.data.repository.PagingAndSortingRepository
 
